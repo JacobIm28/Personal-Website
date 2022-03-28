@@ -1,0 +1,28 @@
+{
+  "heka": {
+    "position": "Full Stack Developer",
+    "company": "Heka Health (Paperminds)",
+    "location": "Remote",
+    "completed": false,
+    "date": {
+      "start": "May 2022",
+      "end": "August 2022"
+    },
+    "description": [
+      "This is what I did for Heka"
+    ]
+  },
+  "mathsoc": {
+    "position": "Web Developer",
+    "company": "The Mathematics Society of UW",
+    "location": "Waterloo, ON",
+    "completed": true,
+    "date": {
+      "start": "January 2022",
+      "end": "April 2022"
+    },
+    "description": [
+      "This is what I did for MathSoc"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "title": "DateNest",
+    "contributors": ["Samir Ali"],
+    "stack": ["React Native", "Node.js", "Express", "MongoDB"],
+    "description": [
+      "DateNest is an app.....",
+      "More info!"
+    ],
+    "images": "",
+    "links": {
+      "github": ""
+    }
+  } , {
+    "title": "Good Night Out",
+    "contributors": ["Joseph Wang", "Ryan Lin"],
+    "stack": ["React.js", "Node.js", "Express", "MongoDB", "TypeScript"],
+    "description": [
+      "Good Night is a web app.....",
+      "More info!"
+    ],
+    "images": [
+      "asdf"
+    ],
+    "links": [
+      "assddf"
+    ]
+  } , {
+    "title": "Meeting Agenda",
+    "stack": ["React.js", "Node.js", "Express", "MongoDB", "TypeScript"],
+    "description": [
+      "Good Night is a web app.....",
+      "More info!"
+    ],
+    "images": [
+      "asdf"
+    ],
+    "links": [
+      "assddf"
+    ]
+  } , {
+    "title": "Tic Tac Toe",
+    "stack": ["React.js", "Node.js", "Express", "MongoDB", "TypeScript"],
+    "description": [
+      "Good Night is a web app.....",
+      "More info!"
+    ],
+    "images": [
+      "asdf"
+    ],
+    "links": [
+      "assddf"
+    ]
+  }
+]

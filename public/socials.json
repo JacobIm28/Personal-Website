@@ -1,0 +1,17 @@
+{
+  "github": {
+    "link": "https://github.com/JacobIm28",
+    "icon": "github.png",
+    "notes": "Check out my GitHub here: "
+  },
+  "linkedin": {
+    "link": "https://www.linkedin.com/in/jacob-im/",
+    "icon": "linkedin.png",
+    "notes": "Connect with me through"
+  },
+  "gmail": {
+    "link": "j8im@uwaterloo.ca",
+    "icon": "gmail.png",
+    "notes": "Reach out to me at "
+  }
+}

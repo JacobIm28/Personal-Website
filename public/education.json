@@ -1,0 +1,31 @@
+{
+  "uw": {
+    "name": "University of Waterloo",
+    "program": "Honours Bachelor of Computer Science",
+    "location": "Waterloo, ON",
+    "completed": false,
+    "date": {
+      "start": "September 2021",
+      "expected": "April 2026"
+    },
+    "notes": {
+      "gpa": "3.94/4.0",
+      "courses": "",
+      "activities": ""
+    }
+  } ,
+  "lpci": {
+    "program": "OSSD with Honours French Immersion",
+    "location": "Toronto, ON",
+    "completed": true,
+    "date": {
+      "start": "September 2017",
+      "end": "June 2021"
+    },
+    "notes": {
+      "gpa": "99%",
+      "courses": "",
+      "activities": ""
+    }
+  }
+}
