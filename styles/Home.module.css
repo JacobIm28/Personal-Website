@@ -14,7 +14,6 @@
 
 .footer {
   display: flex;
-  position: absolute;
   margin-left: auto;
   margin-right: auto;
   left: 0;
@@ -166,7 +165,7 @@
 
 .social {
   display: flex;
-  margin: 1.5rem;
+  margin: 1rem;
   border: 2px solid rgb(255, 255, 255);
   border-radius: 25px;
   font-size: 20pt;
