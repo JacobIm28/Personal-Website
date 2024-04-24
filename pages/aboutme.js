@@ -8,41 +8,17 @@ function Me({ program, data }) {
   const router = useRouter()
   const {id} = router.query
 
+  debugger
+  
   return (
     <div className={styles.container}>
-      <Head>
-        <title>Homepage</title>
-        <meta name="personal-website" content="By Jacob Im" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <main className={styles.main}>
         <h1 className={styles.title}>
           My name is <span styles={{backgroundColor:'blue'}}>Jacob Im</span>
         </h1>
-        <p className={styles.description}>
-          I go to the {data.heka.position}
-        </p>
-
-        <p>
-          I am in {program}
-        </p>
+        
         
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
-      
       
     </div>
   )

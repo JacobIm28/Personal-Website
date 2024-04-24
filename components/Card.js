@@ -5,7 +5,7 @@ export default function Card({ media }) {
     <div className={styles.social}>
       <img src={media.icon} className={styles.icon}/>
       <div>
-        {media.notes}{" "}
+        {/* {media.notes}{" "} */}
         <span className={styles.emphasize}>
           <a href={media.link} target="_blank">{media.link}</a>
         </span>

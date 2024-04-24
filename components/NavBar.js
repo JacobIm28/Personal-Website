@@ -23,16 +23,16 @@ function NavBar () {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Nav>
-        <a id="about" href="/#about">
+        <a id="about" href="/aboutme">
           About Me  
         </a>
-        <a id="experience" href="/experience#experience">
+        <a id="experience" href="/experience">
           Experience  
         </a>
-        <a id="projects" href="/projects#projects">
+        <a id="projects" href="/projects">
           Projects
         </a>
-        <a id="contact" href="/contact#contact">
+        <a id="contact" href="/contact">
           Contact Me
         </a>
       </Nav>
